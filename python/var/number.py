@@ -1,0 +1,7 @@
+print(1)
+print(1.0)
+print(1e5)
+print(1e-5)
+print(.1)
+print(0.3333)
+print(0x0011)
