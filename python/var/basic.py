@@ -1,4 +1,4 @@
-# 无需声明类型
+# 无需声明类型,直接赋值即可
 
 str = '333333'
 print(str)
@@ -14,3 +14,7 @@ print('多个变量赋值', a,b,c)
 # 魔术变量
 print(__name__) # __main__
 print(__file__)
+
+# 类型检测
+print(type(a) == int)
+isinstance(a, int)
