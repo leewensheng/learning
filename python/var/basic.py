@@ -14,7 +14,8 @@ print('多个变量赋值', a,b,c)
 # 魔术变量
 print(__name__) # __main__
 print(__file__)
-
+# 删除变量引用
+del a
 # 类型检测
 print(type(a) == int)
 isinstance(a, int)

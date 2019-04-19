@@ -4,7 +4,7 @@ import cmath
 # import numpy
 
 '''
-字符串转数字与数字转字串带进制
+字符串转数字与数字转字串带进制函数
 long
 int 
 float
