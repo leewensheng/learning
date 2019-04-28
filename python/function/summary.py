@@ -1,6 +1,14 @@
 # 内置函数
 # http://www.runoob.com/python/python-built-in-functions.html
 
+# 数学类
+# 针对list的range map reduce
+# 类型转换与判断
+# 迭代器
+# 类与成员
+# 编译、执行exec compile
+# 文件io
+# 反射函数
 abs()	divmod()	input()	open()	staticmethod()
 all()	enumerate()	int()	ord()	str()
 any()	eval()	isinstance()	pow()	sum()
