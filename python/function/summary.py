@@ -1,6 +1,12 @@
 # 内置函数
 # http://www.runoob.com/python/python-built-in-functions.html
-
+# 重要函数
+#  input()
+# open()
+# len
+# all, any, reduce map filter range
+#  print
+# list tuple str int float 
 abs()	divmod()	input()	open()	staticmethod()
 all()	enumerate()	int()	ord()	str()
 any()	eval()	isinstance()	pow()	sum()
