@@ -17,5 +17,5 @@ print(__file__)
 # 删除变量引用
 del a
 # 类型检测
-print(type(a) == int)
-isinstance(a, int)
+print(type(b) == int)
+isinstance(b, int)
