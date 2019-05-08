@@ -1,0 +1,10 @@
+# https://www.runoob.com/python/python-2x-3x.html
+1. print语句变成了print函数
+2. 编码默认使用utf8
+3. 整数相除返回浮点数
+4. xrange没有了
+5. 八进制字面量由0开头变成0o
+6. 取消<>不等于,只保留!=
+7. repr表达式变成函数(打印变量)
+8. 模块改名拆分reduce拆到functiontoool,map,filter返回的结果由列表变成iterator了
+9. 取消long类型,只保留int
